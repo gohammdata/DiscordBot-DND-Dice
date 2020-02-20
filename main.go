@@ -13,7 +13,7 @@ import (
     "strconv"
 )
 
-const token string = "Njc4NjYyODY5ODQ3Mzc1ODg0.XkmEIQ.tgfKRtIlXsC9yt2hc1HBzlsvwOI"
+const token string = "token"
 var BotID string
 
 
